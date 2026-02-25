@@ -2,13 +2,11 @@
 I dont have any pronouns but you can say me costiq (kostik)
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co/Rptnh1tG/reform-app-banner.png"  />
+  <img height="150" src="https://i.ibb.co/d4rmj134/reform-app-banner-1.png"  />
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/costiqiel/costiqiel/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/costiqiel/costiqiel/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/costiqiel/costiqiel/output/pacman-contribution-graph.svg">
+  <img alt="getloli" src="https://count.getloli.com/@costiqiel?name=costiqiel&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto>
 </picture>
 
 <!--
