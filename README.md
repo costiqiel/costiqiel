@@ -1,14 +1,13 @@
 ## Sup! I'm costiqiel
-I dont have any pronouns but you can say me costiq (kostik)
 
 <div align="center">
-  <img height="150" src="https://i.ibb.co/d4rmj134/reform-app-banner-1.png"  />
+  <img height="150" src="https://i.ibb.co/FktBD1Gb/reform-app-banner-2.png"  />
 </div>
 
-<picture>
-  <img alt="getloli" src="https://count.getloli.com/@costiqiel?name=costiqiel&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto>
-</picture>
+I dont have any pronouns but you can say me costiq (kostik)
 
+  <img alt="getloli" src="https://count.getloli.com/@costiqiel?name=costiqiel&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto>
+  
 <!--
 **costiqiel/costiqiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
