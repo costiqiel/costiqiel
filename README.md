@@ -8,7 +8,6 @@
  <br><br>
   <samp><br>
     I'm an MERN Developer and UI/UX Designer<br>
-    <br><img src="https://count.getloli.com/@costiqiel?name=costiqiel&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </samp>
 </p>
 <!--
