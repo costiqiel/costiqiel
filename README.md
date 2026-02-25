@@ -6,8 +6,9 @@
 
 I dont have any pronouns but you can say me costiq (kostik)
 
+</div align="center">
   <img alt="getloli" src="https://count.getloli.com/@costiqiel?name=costiqiel&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto>
-  
+</div>
 <!--
 **costiqiel/costiqiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
